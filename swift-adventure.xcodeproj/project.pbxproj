@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7CB02B851A62ADCA00B88502 /* ControllerButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CB02B841A62ADCA00B88502 /* ControllerButton.swift */; };
+		7CB02B871A62B59A00B88502 /* Operators.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CB02B861A62B59A00B88502 /* Operators.swift */; };
+		7CB02B891A62B6AB00B88502 /* Settings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CB02B881A62B6AB00B88502 /* Settings.swift */; };
 		7CF89E521A626E3100FE286B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CF89E511A626E3100FE286B /* AppDelegate.swift */; };
 		7CF89E541A626E3100FE286B /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 7CF89E531A626E3100FE286B /* GameScene.sks */; };
 		7CF89E561A626E3100FE286B /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CF89E551A626E3100FE286B /* GameScene.swift */; };
@@ -15,6 +18,11 @@
 		7CF89E5D1A626E3100FE286B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7CF89E5C1A626E3100FE286B /* Images.xcassets */; };
 		7CF89E601A626E3100FE286B /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7CF89E5E1A626E3100FE286B /* LaunchScreen.xib */; };
 		7CF89E6C1A626E3100FE286B /* swift_adventureTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CF89E6B1A626E3100FE286B /* swift_adventureTests.swift */; };
+		7CF89E761A62770400FE286B /* hero_walk_down_0.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CF89E751A62770400FE286B /* hero_walk_down_0.png */; };
+		7CF89E781A627A7700FE286B /* button_dir_up_0.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CF89E771A627A7700FE286B /* button_dir_up_0.png */; };
+		7CF89E7A1A627A7F00FE286B /* button_dir_right_0.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CF89E791A627A7F00FE286B /* button_dir_right_0.png */; };
+		7CF89E7C1A627A8C00FE286B /* button_dir_down_0.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CF89E7B1A627A8C00FE286B /* button_dir_down_0.png */; };
+		7CF89E7E1A627A9600FE286B /* button_dir_left_0.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CF89E7D1A627A9600FE286B /* button_dir_left_0.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -28,6 +36,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		7CB02B841A62ADCA00B88502 /* ControllerButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ControllerButton.swift; sourceTree = "<group>"; };
+		7CB02B861A62B59A00B88502 /* Operators.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Operators.swift; sourceTree = "<group>"; };
+		7CB02B881A62B6AB00B88502 /* Settings.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Settings.swift; sourceTree = "<group>"; };
 		7CF89E4C1A626E3100FE286B /* swift-adventure.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "swift-adventure.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7CF89E501A626E3100FE286B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7CF89E511A626E3100FE286B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -40,6 +51,11 @@
 		7CF89E651A626E3100FE286B /* swift-adventureTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "swift-adventureTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7CF89E6A1A626E3100FE286B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7CF89E6B1A626E3100FE286B /* swift_adventureTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_adventureTests.swift; sourceTree = "<group>"; };
+		7CF89E751A62770400FE286B /* hero_walk_down_0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = hero_walk_down_0.png; path = "../../../../Downloads/LetsbuildanAdventureGamewithSwiftforiOS8-0.9.1-prerelease/assets/assets/sprites.atlas/hero_walk_down_0/hero_walk_down_0.png"; sourceTree = "<group>"; };
+		7CF89E771A627A7700FE286B /* button_dir_up_0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = button_dir_up_0.png; path = ../../../../Downloads/button_dir_up_0.png; sourceTree = "<group>"; };
+		7CF89E791A627A7F00FE286B /* button_dir_right_0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = button_dir_right_0.png; path = ../../../../Downloads/button_dir_right_0.png; sourceTree = "<group>"; };
+		7CF89E7B1A627A8C00FE286B /* button_dir_down_0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = button_dir_down_0.png; path = ../../../../Downloads/button_dir_down_0.png; sourceTree = "<group>"; };
+		7CF89E7D1A627A9600FE286B /* button_dir_left_0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = button_dir_left_0.png; path = ../../../../Downloads/button_dir_left_0.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,12 +98,20 @@
 			isa = PBXGroup;
 			children = (
 				7CF89E511A626E3100FE286B /* AppDelegate.swift */,
+				7CB02B841A62ADCA00B88502 /* ControllerButton.swift */,
 				7CF89E531A626E3100FE286B /* GameScene.sks */,
 				7CF89E551A626E3100FE286B /* GameScene.swift */,
+				7CB02B881A62B6AB00B88502 /* Settings.swift */,
+				7CB02B861A62B59A00B88502 /* Operators.swift */,
 				7CF89E571A626E3100FE286B /* GameViewController.swift */,
 				7CF89E591A626E3100FE286B /* Main.storyboard */,
 				7CF89E5C1A626E3100FE286B /* Images.xcassets */,
 				7CF89E5E1A626E3100FE286B /* LaunchScreen.xib */,
+				7CF89E751A62770400FE286B /* hero_walk_down_0.png */,
+				7CF89E771A627A7700FE286B /* button_dir_up_0.png */,
+				7CF89E791A627A7F00FE286B /* button_dir_right_0.png */,
+				7CF89E7B1A627A8C00FE286B /* button_dir_down_0.png */,
+				7CF89E7D1A627A9600FE286B /* button_dir_left_0.png */,
 				7CF89E4F1A626E3100FE286B /* Supporting Files */,
 			);
 			path = "swift-adventure";
@@ -167,6 +191,7 @@
 				TargetAttributes = {
 					7CF89E4B1A626E3100FE286B = {
 						CreatedOnToolsVersion = 6.1.1;
+						DevelopmentTeam = 9QHM3Y2HG8;
 					};
 					7CF89E641A626E3100FE286B = {
 						CreatedOnToolsVersion = 6.1.1;
@@ -198,9 +223,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7CF89E7E1A627A9600FE286B /* button_dir_left_0.png in Resources */,
+				7CF89E7C1A627A8C00FE286B /* button_dir_down_0.png in Resources */,
+				7CF89E761A62770400FE286B /* hero_walk_down_0.png in Resources */,
 				7CF89E601A626E3100FE286B /* LaunchScreen.xib in Resources */,
 				7CF89E5D1A626E3100FE286B /* Images.xcassets in Resources */,
+				7CF89E781A627A7700FE286B /* button_dir_up_0.png in Resources */,
 				7CF89E541A626E3100FE286B /* GameScene.sks in Resources */,
+				7CF89E7A1A627A7F00FE286B /* button_dir_right_0.png in Resources */,
 				7CF89E5B1A626E3100FE286B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -219,7 +249,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7CB02B891A62B6AB00B88502 /* Settings.swift in Sources */,
 				7CF89E561A626E3100FE286B /* GameScene.swift in Sources */,
+				7CB02B871A62B59A00B88502 /* Operators.swift in Sources */,
+				7CB02B851A62ADCA00B88502 /* ControllerButton.swift in Sources */,
 				7CF89E581A626E3100FE286B /* GameViewController.swift in Sources */,
 				7CF89E521A626E3100FE286B /* AppDelegate.swift in Sources */,
 			);
@@ -415,6 +448,7 @@
 				7CF89E711A626E3100FE286B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7CF89E721A626E3100FE286B /* Build configuration list for PBXNativeTarget "swift-adventureTests" */ = {
 			isa = XCConfigurationList;
@@ -423,6 +457,7 @@
 				7CF89E741A626E3100FE286B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

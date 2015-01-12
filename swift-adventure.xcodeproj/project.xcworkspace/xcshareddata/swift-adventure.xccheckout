@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0F63A4E8-2B63-4E3D-941E-9161398827AA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>swift-adventure</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>80B152D9EABB45DA2963DD35BF33CDEE4B2D9E61</key>
+		<string>https://github.com/chansuke/swift-adventure.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>swift-adventure.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>80B152D9EABB45DA2963DD35BF33CDEE4B2D9E61</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/chansuke/swift-adventure.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>80B152D9EABB45DA2963DD35BF33CDEE4B2D9E61</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>80B152D9EABB45DA2963DD35BF33CDEE4B2D9E61</string>
+			<key>IDESourceControlWCCName</key>
+			<string>swift-adventure</string>
+		</dict>
+	</array>
+</dict>
+</plist>
